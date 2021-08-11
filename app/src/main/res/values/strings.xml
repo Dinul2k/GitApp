@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">tempcal</string>
+    <string name="inputnum">Enter the tempteture</string>
+</resources>
