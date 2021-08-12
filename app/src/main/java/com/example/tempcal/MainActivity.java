@@ -16,7 +16,7 @@ public class MainActivity extends AppCompatActivity {
     RadioButton celbtn,farbtn;
     Button calbtn;
     TextView resultview;
-
+//pop
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
